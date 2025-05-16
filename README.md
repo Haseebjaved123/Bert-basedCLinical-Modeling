@@ -15,6 +15,6 @@ This project presents a custom fine-tuned BERT architecture enhanced with hybrid
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/Bert-basedCLinical-Modeling.git
-cd Bert-basedCLinical-Modeling
+git clone https://github.com/yourusername/Bert-based Clinical-Modeling.git
+cd Bert-based Clinical-Modeling
 pip install -r requirements.txt
