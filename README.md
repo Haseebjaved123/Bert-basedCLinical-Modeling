@@ -1,8 +1,7 @@
 # Bert-based Clinical Modeling
 
 # Fine-Tuned BERT with Hybrid Pooling
-
-This project presents a custom fine-tuned BERT architecture enhanced with hybrid pooling (CLS + mean + max), residual connections, and modified transformer blocks for improved representation and classification. Moreover, upon request we can share the binary classification code and dataset as required for the tasks. 
+This file contains the complete implementation of Fine-Tuned BERT with hybrid pooling and a modified transformer block. It presents a custom fine-tuned BERT architecture enhanced with hybrid pooling (CLS + mean + max), residual connections, and modified transformer blocks for improved representation and classification. Moreover, upon request we can share the binary classification code and dataset as required for the tasks. 
 
 ## 🚀 Features
 
