@@ -1,4 +1,4 @@
-# Bert-basedCLinical-Modeling
+# Bert-based Clinical Modeling
 
 # Fine-Tuned BERT with Hybrid Pooling
 
